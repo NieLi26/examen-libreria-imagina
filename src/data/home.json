@@ -1,0 +1,81 @@
+{
+    "paginaInicio": {
+      "eventos": [
+        {
+          "id": 1,
+          "titulo": "Firma de Libros con el Autor John Doe",
+          "fecha": "2024-07-01",
+          "hora": "14:00",
+          "ubicacion": "Salón Principal",
+          "descripcion": "Únase a nosotros para un evento de firma de libros con John Doe, el aclamado autor de 'El Misterio de la Vieja Mansión'."
+        },
+        {
+          "id": 2,
+          "titulo": "Hora de Cuentos para Niños",
+          "fecha": "2024-07-05",
+          "hora": "10:00",
+          "ubicacion": "Sección Infantil",
+          "descripcion": "Traiga a sus pequeños para una hora divertida de cuentos y actividades."
+        },
+        {
+          "id": 3,
+          "titulo": "Inicio del Desafío de Lectura de Verano",
+          "fecha": "2024-07-10",
+          "hora": "12:00",
+          "ubicacion": "Sala Comunitaria",
+          "descripcion": "Inicie el desafío de lectura de verano con juegos, premios y más."
+        }
+      ],
+      "redesSociales": {
+        "facebook": "https://facebook.com/nuestrabiblioteca",
+        "twitter": "https://twitter.com/nuestrabiblioteca",
+        "instagram": "https://instagram.com/nuestrabiblioteca"
+      },
+      "contacto": {
+        "direccion": {
+          "linea1": "Calle Biblioteca 123",
+          "linea2": "Localidad Biblioteca",
+          "ciudad": "Ciudad de los Libros",
+          "estado": "CL",
+          "codigoPostal": "10001"
+        },
+        "numerosTelefonicos": [
+          "+1234567890",
+          "+0987654321"
+        ],
+        "correoElectronico": "info@libreria.com"
+      },
+      "promociones": [
+        {
+          "id": 1,
+          "titulo": "Venta de Verano",
+          "descripcion": "¡Obtén hasta un 50% de descuento en títulos seleccionados durante nuestra venta de verano!",
+          "validoHasta": "2024-07-31"
+        },
+        {
+          "id": 2,
+          "titulo": "Compra Uno, Lleva Otro Gratis",
+          "descripcion": "Compra un libro infantil y lleva otro gratis. ¡Oferta por tiempo limitado!",
+          "validoHasta": "2024-08-15"
+        }
+      ],
+      "tematicasDestacadas": [
+        {
+          "id": 1,
+          "nombre": "Ciencia Ficción",
+          "descripcion": "Explora nuevos mundos y aventuras futuristas con nuestras mejores selecciones de ciencia ficción."
+        },
+        {
+          "id": 2,
+          "nombre": "Misterio y Suspenso",
+          "descripcion": "Haz que tu corazón lata más rápido con nuestra selección de novelas de misterio y suspenso."
+        },
+        {
+          "id": 3,
+          "nombre": "Ficción Histórica",
+          "descripcion": "Viaja en el tiempo con nuestros mejores libros de ficción histórica."
+        }
+      ]
+    }
+  }
+  
